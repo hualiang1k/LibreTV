@@ -26,26 +26,6 @@ const API_SITES = {
             "api": "http://肥猫.com",
             "name": "🚀1-肥猫",
             adult: false
-    },
-        fantaiying:{
-            "api": "http://www.饭太硬.com/tv/",
-            "name": "🚀2-饭太硬推荐",
-            adult: false
-    },
-          4k:{
-            "api": "http://xhztv.top/4k.json",
-            "name": "🚀3-小盒子4K",
-            adult: false
-    },
-        jiangkang:{
-            "api": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-            "name": "🚀4-健康家用",
-            adult: false
-    },
-        xiaoer:{
-            "api": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀5-王二小",
-            adult: false
     }
 
     //ARCHIVE https://telegra.ph/APIs-08-12
