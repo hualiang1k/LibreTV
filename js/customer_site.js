@@ -1,4 +1,13 @@
 const CUSTOMER_SITES = {
+     dyttzy2: {
+
+    api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+
+    name: '资源资源.21.31',
+
+    detail: 'http://caiji.dyttzyapi.com', 
+
+  },
      		 dyttzy: {
 
     api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
