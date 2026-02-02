@@ -1,25 +1,4 @@
 const CUSTOMER_SITES = {
-	feimao: {
-		api: 'http://肥猫.com',
-		name: '🚀1-肥猫',
-		detail: 'http://肥猫.com',
-	},
-    fantaiying:{
-            api: 'http://www.饭太硬.com/tv/',
-            name: '🚀2-饭太硬推荐',
-    },
-    	KK: {
-		api: 'http://xhztv.top/4k.json',
-		name: '🚀3-KK小盒子',
-	},
-    jiangkang: {
-		api: 'https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json',
-		name: '🚀4-健康家用',
-	},
-    xiaoer: {
-		api: 'http://tvbox.xn--4kq62z5rby2qupq9ub.top/',
-		name: '🚀5-王二小',
-	}, 
 	dyttzy: {
 		api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
 		name: '电影天堂资源',
