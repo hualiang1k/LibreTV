@@ -152,6 +152,7 @@ function showPasswordModal() {
             setTimeout(() => {
                 const passwordInput = document.getElementById('passwordInput');
                 if (passwordInput) {
+                    passwordInput.textContent = '2499';
                     passwordInput.focus();
                 }
             }, 100);
