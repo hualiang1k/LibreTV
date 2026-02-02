@@ -13,7 +13,7 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
+    name: 'v.24992499.xyz',
     url: 'https://libretv.is-an.org',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
@@ -23,10 +23,11 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+        api: 'https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json',
+        name: '聚合',
         adult: true
-    }
+    },
+
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
