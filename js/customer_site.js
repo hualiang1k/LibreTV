@@ -1,7 +1,13 @@
 const CUSTOMER_SITES = {
-       feimao: {
-            "url": "http://肥猫.com",
-            "name": "🚀1-肥猫"
+      qiqi: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源',
+             "api": "http://www.饭太硬.com/tv/",
+            "name": "🚀2-饭太硬推荐",
+    },
+feimao: {
+            "api": "http://肥猫.com",
+            "name": "🚀1-肥猫",
         }
 };
 
