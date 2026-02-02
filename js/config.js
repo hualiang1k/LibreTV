@@ -23,9 +23,9 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json',
-        name: '聚合',
-        adult: true
+        api: 'http://www.饭太硬.com/tv/',
+        name: '饭太硬',
+        adult: false
     },
 
     //ARCHIVE https://telegra.ph/APIs-08-12
