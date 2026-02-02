@@ -22,11 +22,76 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    testSource: {
-        api: 'http://www.饭太硬.com/tv/',
-        name: '饭太硬',
-        adult: false
+       feimao: {
+            "api": "http://肥猫.com",
+            "name": "🚀1-肥猫",
+            adult: false
     },
+        fantaiying:{
+            "api": "http://www.饭太硬.com/tv/",
+            "name": "🚀2-饭太硬推荐",
+            adult: false
+    },
+          4k:{
+            "api": "http://xhztv.top/4k.json",
+            "name": "🚀3-小盒子4K",
+            adult: false
+    },
+        jiangkang:{
+            "api": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀4-健康家用",
+            adult: false
+    },
+        xiaoer:{
+            "api": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀5-王二小",
+            adult: false
+    },
+        {
+            "api": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+            "name": "🚀6-FongMI线路",
+            adult: false
+    },
+          {
+            "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🚀7-香雅情",
+            adult: false
+    },
+        {
+            "api": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀8-巧计线路",
+            adult: false
+    },
+         {
+            "api": "http://tv.nxog.top/m/",
+            "name": "🚀9-欧歌4K",
+             adult: false
+    },
+        {
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀10-高天流云js",
+            adult: false
+    },
+        {
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀11-高天流云 XYQ",
+            adult: false
+    },
+        {
+            "api": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🚀12-影探线路",
+            adult: false
+    },
+        {
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀13-南风",
+            adult: false
+    },
+        {
+            "api": "https://www.wya6.cn/tv/yc.json",
+            "name": "🚀14-无意线路"",
+            adult: false
+        }
 
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
