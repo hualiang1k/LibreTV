@@ -59,6 +59,11 @@ const CUSTOMER_SITES = {
 		    api: 'http://ffzy5.tv/api.php/provide/vod',
             name: '🚀15-非凡影视',
   },  
+    ruyi: {
+    api: 'https://cj.rycjapi.com/api.php/provide/vod',
+    name: '🚀-16如意资源',
+
+  },
 };
 
 // 调用全局方法合并
