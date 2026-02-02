@@ -22,11 +22,14 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-       feimao: {
+    feimao: {
             "api": "http://肥猫.com",
             "name": "🚀1-肥猫",
-            adult: false
-    }
+    },
+    ffzy: {
+    api: 'http://ffzy5.tv/api.php/provide/vod',
+    name: '非凡影视',
+  },
 
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
