@@ -14,7 +14,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'v.24992499.xyz',
-    url: 'https://libretv.is-an.org',
+    url: 'https://v.24992499.xyz',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
