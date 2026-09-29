@@ -137,7 +137,7 @@ function LoginModal({
   onSuccess: () => void;
   onClose: () => void;
 }) {
-  const [password, setPassword] = useState('');
+  const [password, setPassword] = useState('2499');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
